@@ -1,0 +1,3 @@
+C:\Users\dlugo\source\repos\TicTactical\TicTactical\Debug\TicTactical.vcxproj.AssemblyReference.cache
+C:\Users\dlugo\source\repos\TicTactical\TicTactical\Debug\TicTactical.MainForm.resources
+C:\Users\dlugo\source\repos\TicTactical\TicTactical\Debug\TicTactical.vcxproj.GenerateResource.cache
